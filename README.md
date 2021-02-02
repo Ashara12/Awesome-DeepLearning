@@ -40,12 +40,12 @@
 7.  [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 8.  [Deep Learning in Neural Networks: An Overview](http://arxiv.org/pdf/1404.7828v4.pdf)
 9.  [Artificial intelligence and machine learning: Topic wise explanation](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/)
-10.[Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
+10. [Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
 11. [Dive into Deep Learning](https://d2l.ai/) - numpy based interactive Deep Learning book
 12. [Practical Deep Learning for Cloud, Mobile, and Edge](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/) - A book for optimization techniques during production.
 13. [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - by Krishnendu Chaudhury
 14. [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action) - by Thushan Ganegedara
- 
+15. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf) by Aurélien Géron  | Oct 15, 2019
 ### Courses
 
 1.  [Machine Learning - Stanford](https://class.coursera.org/ml-005) by Andrew Ng in Coursera (2010-2014)
@@ -91,7 +91,7 @@
 40. [AWS Machine Learning](https://aws.training/machinelearning) Machine Learning and Deep Learning Courses from Amazon's Machine Learning unviersity
 41. [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) - A great introductory course on Deep Learning by Udacity and Facebook AI
 42. [Deep Learning by Kaggle](https://www.kaggle.com/learn/deep-learning) - Kaggle's  free course on Deep Learning
-
+43. [Deep Learning A.I.Shelf](http://aishelf.org/category/ia/deep-learning/)
 ### Videos and Lectures
 
 1.  [How To Create A Mind](https://www.youtube.com/watch?v=RIkxVci-R4k) By Ray Kurzweil
@@ -172,6 +172,8 @@
 46. [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
 47. [Unsupervised Translation of Programming Languages](https://arxiv.org/pdf/2006.03511.pdf)
 48. [Matching Networks for One Shot Learning](http://papers.nips.cc/paper/6385-matching-networks-for-one-shot-learning.pdf)
+49. [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://proceedings.mlr.press/v37/ioffe15.pdf)
+50. [DeepFaceDrawing: Deep Generation of Face Images from Sketches](http://geometrylearning.com/paper/DeepFaceDrawing.pdf?fbclid=IwAR0colWFHPGBCB1APZq9JVsWeWtmeZd9oCTNQvR52T5PRUJP_dLOwB8pt0I)
 
 ### Tutorials
 
